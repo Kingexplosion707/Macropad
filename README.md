@@ -7,16 +7,16 @@ A compact 7-key macropad built around the Seeed XIAO RP2040, running CircuitPyth
 ## Screenshots & Renders
 
 ### Macropad Design Render
-> 📷 _Place your macropad render or photo here (`/CAD/render.png`)_
+> 📷 _Place your macropad render or photo here (`render.png`)_
 
 ### Schematic
-> 📷 _Place a screenshot of your KiCad schematic here (`/PCB/schematic.png`)_
+> 📷 _Place a screenshot of your KiCad schematic here (`schematic.png`)_
 
 ### PCB Layout
-> 📷 _Place a screenshot of your KiCad PCB layout here (`/PCB/layout.png`)_
+> 📷 _Place a screenshot of your KiCad PCB layout here (`layout.png`)_
 
 ### Case — 3D View
-> 📷 _Place a screenshot of your case assembly here (`/CAD/case-3d.png`)_
+> 📷 _Place a screenshot of your case assembly here (`case-3d.png`)_
 
 ---
 
